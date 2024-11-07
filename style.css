@@ -1,0 +1,171 @@
+body {
+    background-color: black;
+}
+#Title {    
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+}
+#titleSmall {    
+    width: 350px;
+    height: 350px;
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+}
+.seperBox1 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -159px;
+    height: 10px;
+    width: 700px;
+    background-color: white;
+}
+.seperBox2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    height: 10px;
+    width: 500px;
+    background-color: white;
+}
+#Text {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 15px;
+}
+.Head {
+    color: white;
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 60px;
+}
+.Text1 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.Text2 {
+    color: rgba(255, 255, 255, 0.466);
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.space {
+    margin-bottom: 205px;
+    margin-top: 505px;
+    padding: 10px;       
+}
+.secretLetter {
+    text-align: center;
+    font-size: 15px;
+    text-indent: 20px;
+}
+#BGTWSO {
+    background-image: url(Pictures/TWSO/BG.png);
+    background-size: 300px;
+}
+.pic1 {
+    border: 30px, solid, white;
+    margin: 90px;
+}
+.pic2 {
+    border: 30px, solid, rgb(255, 0, 0);
+    position: absolute;
+    margin: 10px;
+    top: 160px;
+    left: 40px;
+}
+.pic3 {
+    border: 30px, solid, white;
+    margin: -40px;
+    position: absolute;
+    top: 260px;
+    left: 500px;
+}
+.pic4 {
+    border: 30px, solid, rgb(255, 0, 0);
+    margin: -40px;
+    position: absolute;
+    top: 350px;
+    left: 10px;
+    width: 140%;
+    height: 40%;
+}
+.pic5 {
+    position: absolute;
+    left: -600px;
+    top: 666px;
+    width: 140%;
+    height: 40%;
+}
+.pic6 {
+    position: absolute;
+    left: -60px;
+    width: 90%;
+    height: 209%;
+}
+.pic7 {
+    position: absolute;
+    left: 1120px;
+    width: 20%;
+    height: 100%;
+}
+.pic8 {
+    position: absolute;
+    left: 580px;
+    width: 20%;
+    height: 100%;
+}
+.pic9 {
+    position: absolute;
+    left: 480px;
+    top: 1230px;
+    width: 20%;
+    height: 100%;
+}
+.pic10 {
+    position: absolute;
+    left: 0px;
+    top: 1530px;
+    width: 193%;
+    height: 50%;
+}
+.pic11 {
+    position: absolute;
+    left: 550px;
+    top: 1770px;
+    width: 50%;
+    height: 50%;
+}
+.pic12 {
+    position: absolute;
+    left: 550px;
+    top: 1970px;
+    width: 50%;
+    height: 50%;
+}
+.pic13 {
+    position: absolute;
+    left: 550px;
+    top: 1148px;
+    width: 50%;
+    height: 50%;
+}
+.pic14 {
+    position: absolute;
+    width: 90%;
+    height: 50%;
+}
+.Hide {
+    text-align: center;
+    color: black;
+}
+.BACK {
+    text-align: left;
+    color: white;
+}
